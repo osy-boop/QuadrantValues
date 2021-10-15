@@ -720,24 +720,6 @@ questions = [
         }
     },
     {
-        "question": "Question 83",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Question 85",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "It is important that we further my group's goals above all others.",
         "effect": {
             "econ": 0,
