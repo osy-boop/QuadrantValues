@@ -621,7 +621,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 72",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -630,7 +630,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 73",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -639,7 +639,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 74",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -648,7 +648,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 75",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -657,7 +657,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 76",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -666,7 +666,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 77",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -675,7 +675,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 78",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -684,7 +684,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "79",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -693,7 +693,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 80",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -702,7 +702,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 81",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -711,7 +711,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 82",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -720,7 +720,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 83",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -729,7 +729,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 85",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -738,7 +738,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 86",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -747,7 +747,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 87",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -756,7 +756,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 88",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -765,7 +765,7 @@ questions = [
         }
     },
     {
-        "question": "All people  regardless of factors like culture or sexuality  should be treated equally.",
+        "question": "Question 899",
         "effect": {
             "econ": 0,
             "dipl": 0,
